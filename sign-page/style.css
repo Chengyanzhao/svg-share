@@ -1,3 +1,12 @@
+html,
+body {
+  text-align: center;
+}
+
+#sign-svg {
+  margin-top: 20%;
+}
+
 path {
   stroke-dasharray: 1000;
   stroke-dashoffset: 1000;
