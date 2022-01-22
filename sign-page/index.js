@@ -17,4 +17,6 @@ const drawNext = () => {
   }, disMs);
 }
 
-drawNext();
+const play = () => {
+  drawNext();
+}
